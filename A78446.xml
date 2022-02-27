@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The censure of the Earl of Berkshire by the Lords in Parliament. Also the examination of foure men being masters of ships, concerning the great Oneal being landed in Ireland, having commission under the great seale of England to kill and slay the English and Scots in that kingdome, and afterward to come into England against the Protestants here. Likewise a relation of the Earle of Essex his marching forward with his forces against the cavaliers. With the manner of Baron Walters being taken, and rescued again the by the cavaliers, five of them being slain.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78446</idno>
+            <idno type="STC">Wing C1667</idno>
+            <idno type="STC">Thomason E118_15</idno>
+            <idno type="STC">ESTC R21795</idno>
+            <idno type="EEBO-CITATION">99871504</idno>
+            <idno type="PROQUEST">99871504</idno>
+            <idno type="VID">156091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The censure of the Earl of Berkshire by the Lords in Parliament. Also the examination of foure men being masters of ships, concerning the great Oneal being landed in Ireland, having commission under the great seale of England to kill and slay the English and Scots in that kingdome, and afterward to come into England against the Protestants here. Likewise a relation of the Earle of Essex his marching forward with his forces against the cavaliers. With the manner of Baron Walters being taken, and rescued again the by the cavaliers, five of them being slain.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Spurious -- Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berkshire, Thomas Howard, --  Earl of, ca. 1590-1669.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>O'Neill, Owen Roe, 1590?-1649.</term>
+               <term>Walters, --  Baron.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156091:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+            <p>THE CENSURE OF THE EARL <hi>OF</hi> BERKSHIRE <hi>BY THE</hi> LORDS <hi>IN</hi> PARLIAMENT. Alſo the EXAMINATION of foure men being Maſters of ſhips, concerning the great <hi>Oneal</hi> being landed in <hi>Ireland,</hi> having commiſſion under the <hi>Great Seale</hi> of <hi>England</hi> to kill and ſlay the <hi>Engliſh</hi> and <hi>Scots</hi> in that Kingdome, and afterward to come into <hi>England</hi> againſt the Proteſtants here.</p>
+            <p>Likewiſe a Relation of the <hi>Earle of Eſſex</hi> his marching for<g ref="char:EOLhyphen"/>ward with his Forces againſt the Cavaliers.</p>
+            <p>
+               <hi>WITH</hi> The manner of <hi>Baron Walters</hi> being taken, and reſcued again the by the Cavaliers, five of them being ſlain.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Johnſon. Septemb.</hi> 20. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156091:2"/>
+            <!-- PDF PAGE 97 -->
+            <pb n="1" facs="tcp:156091:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <head>THE CENSURE OF THE EARL OF <hi>BERKSHIRE,</hi> By the LORDS <hi>IN</hi> PARLIAMENT.</head>
+            <p>Alſo the great <hi>Oneals</hi> landing in <hi>Ireland,</hi> with a Commiſſion to kill and ſlay the <hi>Engliſh</hi> and <hi>Scots</hi> there, and after to come into <hi>England</hi> againſt the Proteſtants here.</p>
+            <p>
+               <hi>Likewiſe a true Relation of the</hi> Earle of Eſſex <hi>his advancing forward with his Forces againſt the Cavaliers: With the manner of</hi> Baron Wal<g ref="char:EOLhyphen"/>ters <hi>being taken and reſcued againe by the Ca<g ref="char:EOLhyphen"/>valiers &amp;c. five of them being ſlain.</hi>
+            </p>
+            <p>THe honourable Houſe of Parliament taking into conſideration the great number of Delinquents that are now in this Kingdome, many of them ſheltering themſelves under his Majeſties protection, and diverſe others that have been lately taken and brought up to <hi>London,</hi> and impriſoned, reſolved with all convenient ſpeed they could to proceed legally againſt them, provided that their proceedings againſt them ſhould not interrupt the great and weighty affaires
+<pb n="2" facs="tcp:156091:3"/>
+               <!-- PDF PAGE 98 -->of this Kingdome; and thereupon on Wed<g ref="char:EOLhyphen"/>neſday laſt, being the foureteenth day of this inſtant moneth of <hi>September,</hi> according to an Order of the Houſe of Peeres, the Earle of <hi>Berkſhire,</hi> being priſoner in the Tower, was brought to the Barre, and examined con<g ref="char:EOLhyphen"/>cerning his coming into the County of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> to a place called <hi>Watlington,</hi> with ſome other perſons of quality, with an intent to put in Execution the Commiſſion of Array, and to ſeize upon the Magazine that lay in that towne. Whereupon the ſaid Earle plea<g ref="char:EOLhyphen"/>ding that although he thorough the want of a right information concerning the ſtate and condition of things as they now ſtand in dif<g ref="char:EOLhyphen"/>ference betweene the King and Parliament, had moſt unfortunately beene drawn away from the ſervice of the Houſe for a time, yet he made many proteſtations and declarations of his moſt ſincere and hearty deſire and en<g ref="char:EOLhyphen"/>deavour to ſerve the Kings Majeſty and Par<g ref="char:EOLhyphen"/>liament in any thing that might be thought acceptable; and humbly ſubmitted himſelfe to their Lordſhips. After which (he being commanded to withdraw) their Lordſhips had ſome private debate of the matter, and conſidering that it was the firſt action that was undertaken by his Lordſhip of that nature, and that he had raiſed no forces, he was called againe into the Houſe, and upon
+<pb n="3" facs="tcp:156091:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 98 -->his humble ſubmiſſion, as aforeſaid, he was enlarged out of priſon, but confined to his owne houſe, and is to appeare againe (at the pleaſure of the Lords) upon ſix houres ſummons.</p>
+            <p>Upon the fifteenth day of this moneth at a Conference of both Houſes, were read the examinations of foure men upon oath taken at <hi>Plymmouth,</hi> ſignifying that the great <hi>Oneale</hi> that hath been beyond ſea many yeares, is now landed in <hi>Ireland,</hi> and hath brought over with him diverſe ſhips laden with men and ammunition, to aid and aſſiſt the Rebels in <hi>Ireland,</hi> and that they ſaid they had received a Commiſſion from his Majeſty under the broad Scale of <hi>England,</hi> to kill and ſlay all the Engliſh and Scots in that Kingdome, that ſhould reſiſt them: and that when they have done there, they have the like commiſſion for <hi>England,</hi> but the Parliament have ano<g ref="char:EOLhyphen"/>ther opinion of his Majeſty, and hope that if any ſuch Commiſſions are, they have been obtained by ſome ſiniſter meanes without the knowledge or privity of his Majeſty, Sir <hi>En<g ref="char:EOLhyphen"/>dimion Porter</hi> (not being a ſworn Officer, and one that is diſaffected to the King and King<g ref="char:EOLhyphen"/>dome) having for diverſe moneths together had the cuſtody and poſſeſſion of the great ſeal of <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:156091:4"/>
+               <!-- PDF PAGE 99 -->
+Great cauſe therefore had the L. <hi>Keeper</hi> to make ſome excuſe for himſelfe, by ſignifying unto the Parliament, that thoſe illegall Com<g ref="char:EOLhyphen"/>miſſions and Proclamations lately ſent forth under the great Seal, were not paſſed by him, and although in that reſpect he hopes for fa<g ref="char:EOLhyphen"/>vour, yet it is probable that now he repents he had not followed the example of the Biſhop of <hi>Chicheſter, Lord Keeper</hi> of the Great Seale in the time of <hi>Henry the third,</hi> who when the King ſent to him for the Seale, he refuſed to deliver it to his Majeſty, but reſigned it up in<g ref="char:EOLhyphen"/>to the hands of the Parliament, thinking it moſt proper, that thoſe which had power o<g ref="char:EOLhyphen"/>ver all cauſes, ſhould likewiſe have the diſpo<g ref="char:EOLhyphen"/>ſing of the Great Seale of <hi>England.</hi> But I ſhall not further inſiſt upon this point, there<g ref="char:EOLhyphen"/>fore I will return to the next particular of my diſcourſe, becauſe in theſe times men rather delight in novelties, then in antiquity, and theſe times require that men ſhould rather ſtudie how to ſave their heads, then to turn o<g ref="char:EOLhyphen"/>ver books.</p>
+            <p>The Cavaliers perſiſting in committing many great outrages in <hi>Leiceſterſhire, Nottin<g ref="char:EOLhyphen"/>ghamſhire,</hi> and other parts of this Kingdome, the Parliament have ſent Letters and Inſtru<g ref="char:EOLhyphen"/>ctions to the Earle of <hi>Eſſex,</hi> Lord Generall of the Army, to advance his Forces from <hi>North<g ref="char:EOLhyphen"/>hampton,</hi> to march into <hi>Leiceſterſhire,</hi> &amp; from
+<pb n="5" facs="tcp:156091:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 99 -->thence into <hi>Nottinghamſhire,</hi> for the ſetling of the peace of the Kingdome, carrying a peti<g ref="char:EOLhyphen"/>tion with him from both Houſes of Parlia<g ref="char:EOLhyphen"/>ment in behalfe of themſelves and the whole Kingdome, declaring that they have no intent to levy warre againſt his Majeſty, but deſire the peace of the Kingdome, the preſervation of the true Proteſtant Religion, the Lawes of the Land, the Priviledges of Parliament, and the liberty and Propriety of the Subject, a<g ref="char:EOLhyphen"/>gainſt thoſe evill Counſellers and Actors that go about to violate and overthrow the ſame.</p>
+            <p>On Saturday laſt, being the tenth of this inſtant moneth, Baron <hi>Walter,</hi> being a great Delinquent, was taken at <hi>Broadway</hi> in the County of <hi>Worceſter,</hi> by the meanes of one M. <hi>Stevens,</hi> a very religious man, being chiefe, Conſtable, &amp; in regard the Sabbath was then approaching, he was kept all that night and all day on ſunday at the ſaid <hi>Stevens</hi> his houſe: but (notice thereof being preſently gi<g ref="char:EOLhyphen"/>ven to the Cavaliers which came that night out of <hi>Oxford,</hi> they came on ſunday night to the ſaid towne of <hi>Broadway,</hi> and beſet the ſaid <hi>Stevens</hi> his houſe, and demanded that the ſaid Baron ſhould be delivered unto them: which being denied, they ſet upon the houſe, threat<g ref="char:EOLhyphen"/>ning to beat it downe: but the ſaid <hi>Stevens</hi> having ſome muskets in his houſe which had been taken from the lord <hi>Lovelace,</hi> began to
+<pb n="4" facs="tcp:156091:5"/>
+               <!-- PDF PAGE 100 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:156091:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 100 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:156091:6"/>
+               <!-- PDF PAGE 101 -->charge upon them out of the windowes, and killed foure or five of them, and perceiving that they could not enter the houſe without the hazard of many of their lives, they pre<g ref="char:EOLhyphen"/>ſently ſet fire on his barnes, ſtables and out<g ref="char:EOLhyphen"/>houſes, and burnt them down to the ground, which put the countrey into ſuch terrour and amazement (not knowing the number of the Cavaliers, nor what ſtrength they had, fearing leſt the whole town ſhould have been fired by them) that many of them began to intercede that the Baron ſhould bee delivered unto them: whereupon, with condition of their departure without further injury to the towne, he was delivered unto them: after which they went towards <hi>Worceſter,</hi> and have plundered many honeſt mens houſes in the countrey, and ſeized on their armes: and it is credibly reported, that they have entred into Serjeant <hi>Wilds</hi> houſe at <hi>Droit</hi> (a worthy Mem<g ref="char:EOLhyphen"/>ber of the Houſe of Commons) and have plundered the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
